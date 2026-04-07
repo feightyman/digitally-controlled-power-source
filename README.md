@@ -1,6 +1,11 @@
 # 🔌 数控电源 (Digitally Controlled Power Source)
 
 本项目是一个基于 STM32 微控制器开发的**数控电源 (DC Power Supply)** 固件程序。项目通过微控制器输出高精度的模拟基准电压来控制电源电路，同时通过内部 ADC 闭环采集实际电压与电流，并在 OLED 屏幕上提供良好的人机交互界面。
+![b08ff5d66d2f6155fb60dc3f407a265a](https://github.com/user-attachments/assets/4776f636-52ee-4ffe-9d78-ddc2127c7d21)
+
+![179b01989044ebd39926c913258d7330](https://github.com/user-attachments/assets/fe4b67e7-7199-4ec3-82a9-68b53851908c)
+
+![1bb58340427d8a780d9a70e91cdce154](https://github.com/user-attachments/assets/a897bddd-ae1d-4926-8db1-e46132e5735e)
 
 ## 🛠️ 硬件架构
 
